@@ -1,1 +1,1 @@
-Template for automatic surveys delivery in WhatsApp developed at Microsoft Excel.
+Template for automation surveys delivery in WhatsApp developed at Microsoft Excel.
